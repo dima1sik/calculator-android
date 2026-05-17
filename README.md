@@ -27,6 +27,3 @@ The project demonstrates basic Android UI development and arithmetic operation h
 3. Select an emulator or Android device.
 4. Run the app module.
 
-## Status
-
-Finished university Android project prepared for GitHub portfolio.
