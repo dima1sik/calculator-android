@@ -1,4 +1,4 @@
-# Clean Calculator Android
+﻿# Clean Calculator Android
 
 Clean Calculator Android is a lightweight calculator application built with Java and Android XML layouts.
 
@@ -37,10 +37,7 @@ settings.gradle.kts
 3. Select an emulator or Android device.
 4. Run the app module.
 
-## Status
-
-Portfolio / learning Android project.
-
 ## Notes
 
 This project focuses on basic Android development, UI layout, and Java application logic.
+
