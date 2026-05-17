@@ -1,0 +1,11 @@
+﻿<resources>
+    <color name="purple_200">#BB86FC</color>
+    <color name="purple_500">#8692F7</color> <!-- lavender Ð¸Ð· Ð²Ð¸Ð´ÐµÐ¾ -->
+    <color name="purple_700">#8692F7</color>
+
+    <color name="teal_200">#03DAC5</color>
+    <color name="teal_700">#018786</color>
+
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+</resources>
