@@ -1,17 +1,18 @@
-﻿# Clean Calculator Android
+# Clean Calculator Android
 
-Clean Calculator Android is a simple calculator application built with Java and Android XML layouts.
+Clean Calculator Android is a lightweight calculator application built with Java and Android XML layouts.
 
 ## Overview
 
-The project demonstrates basic Android UI development and arithmetic operation handling in a clean, lightweight mobile app.
+The project demonstrates basic Android UI development, arithmetic operation handling, and a simple mobile app structure.
 
 ## Features
 
 - Basic arithmetic operations
 - Android XML-based layout
 - Java activity logic
-- Simple and responsive interface
+- Simple responsive interface
+- Gradle-based Android project
 
 ## Tech Stack
 
@@ -20,10 +21,26 @@ The project demonstrates basic Android UI development and arithmetic operation h
 - XML Layouts
 - Gradle Kotlin DSL
 
+## Project Structure
+
+`	ext
+app/
+gradle/
+build.gradle.kts
+settings.gradle.kts
+`
+
 ## How to Run
 
 1. Open the project in Android Studio.
-2. Wait for Gradle Sync.
+2. Wait for Gradle Sync to finish.
 3. Select an emulator or Android device.
 4. Run the app module.
 
+## Status
+
+Portfolio / learning Android project.
+
+## Notes
+
+This project focuses on basic Android development, UI layout, and Java application logic.
